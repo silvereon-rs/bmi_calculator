@@ -1,3 +1,2 @@
 # BMI Calculator
-
-Made with Flutter
+![](bmi.gif)
